@@ -1,0 +1,70 @@
+{
+  "accounts": [
+    {
+      "accountId": 1,
+      "email": "example1@example.com",
+      "authToken": "token123",
+      "creationDate": "2024-01-15"
+    },
+    {
+      "accountId": 2,
+      "email": "example2@example.com",
+      "authToken": "token456",
+      "creationDate": "2024-01-16"
+    },
+    {
+      "accountId": 3,
+      "email": "example3@example.com",
+      "authToken": "token789",
+      "creationDate": "2024-01-17"
+    }
+  ],
+  "profiles": [
+    {
+      "profileId": 1,
+      "country": "USA",
+      "marketplace": "Amazon"
+    },
+    {
+      "profileId": 2,
+      "country": "UK",
+      "marketplace": "eBay"
+    },
+    {
+      "profileId": 3,
+      "country": "Ukraine",
+      "marketplace": "DOU"
+    },
+    {
+      "profileId": 4,
+      "country": "Chine",
+      "marketplace": "Toyota"
+    }
+  ],
+  "campaigns": [
+    {
+      "campaignId": 1,
+      "clicks": 100,
+      "cost": 50.00,
+      "date": "2024-01-15"
+    },
+    {
+      "campaignId": 2,
+      "clicks": 150,
+      "cost": 75.50,
+      "date": "2024-01-16"
+    },
+    {
+      "campaignId": 3,
+      "clicks": 100,
+      "cost": 35.00,
+      "date": "2024-01-17"
+    },
+    {
+      "campaignId": 4,
+      "clicks": 130,
+      "cost": 175.50,
+      "date": "2024-01-19"
+    }
+  ]
+}
